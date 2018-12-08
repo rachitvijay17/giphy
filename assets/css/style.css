@@ -1,0 +1,13 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+#animal_des{
+    float: left;
+    margin: 20px;
+    height: 200px !important;
+    margin-bottom: 30px;
+}    
